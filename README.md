@@ -16,9 +16,9 @@ npx create-expo-app -e with-router
 ## Screenshots
 
 <p float="left">
-  <img src=""C:\Users\Lomidze\OneDrive\Рабочий стол\Screen_1.jpg"" width="200" />
-  <img src=""C:\Users\Lomidze\OneDrive\Рабочий стол\Screen_2.jpg"" width="200" />
-  <img src=""C:\Users\Lomidze\OneDrive\Рабочий стол\Screen_3jpg"" width="200" /> 
+  <img src="C:\Users\Lomidze\OneDrive\Рабочий стол\Screen_1.jpg" width="200" />
+  <img src="C:\Users\Lomidze\OneDrive\Рабочий стол\Screen_2.jpg" width="200" />
+  <img src="C:\Users\Lomidze\OneDrive\Рабочий стол\Screen_3jpg" width="200" /> 
 </p>
 
 
